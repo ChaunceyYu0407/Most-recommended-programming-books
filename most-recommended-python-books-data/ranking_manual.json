@@ -1,0 +1,227 @@
+[
+    {
+        "short_title": "learning_python",
+        "score": 35.96491228070175,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/51Nihh2qgLL._SX379_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/3cvghHw",
+        "author": "Mark Lutz",
+        "title": "Learning Python",
+        "description": "Get a comprehensive, in-depth introduction to the core Python language with this hands-on book. Based on author Mark Lutz’s popular training course, this updated fifth edition will help you quickly write efficient, high-quality code with Python. It’s an ideal way to begin, whether you’re new to programming or a professional developer versed in other languages. \\n Complete with quizzes, exercises, and helpful illustrations, this easy-to-follow, self-paced tutorial gets you started with both Python 2.7 and 3.3— the latest releases in the 3.X and 2.X lines—plus all other releases in common use today. You’ll also learn some advanced language features that recently have become more common in Python code."
+    },
+    {
+        "short_title": "python_cookbook",
+        "score": 35.96491228070175,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/51jrF94LNsL._SX379_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/2TCfXhw",
+        "author": "David Beazley & Brian K. Jones",
+        "title": "Python Cookbook",
+        "description": "If you need help writing programs in Python 3, or want to update older Python 2 code, this book is just the ticket. Packed with practical recipes written and tested with Python 3.3, this unique cookbook is for experienced Python programmers who want to focus on modern tools and idioms. \\n Inside, you’ll find complete recipes for more than a dozen topics, covering the core Python language as well as tasks common to a wide variety of application domains. Each recipe contains code samples you can use in your projects right away, along with a discussion about how and why the solution works."
+    },
+    {
+        "short_title": "fluent_python",
+        "score": 35.08771929824561,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/41R%2BfNX-akL._SX379_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/2IgGQ5A",
+        "author": "Luciano Ramalho",
+        "title": "Fluent Python",
+        "description": "Python’s simplicity lets you become productive quickly, but this often means you aren’t using everything it has to offer. With this hands-on guide, you’ll learn how to write effective, idiomatic Python code by leveraging its best—and possibly most neglected—features. Author Luciano Ramalho takes you through Python’s core language features and libraries, and shows you how to make your code shorter, faster, and more readable at the same time. \\n Many experienced programmers try to bend Python to fit patterns they learned from other languages, and never discover Python features outside of their experience. With this book, those Python programmers will thoroughly learn how to become proficient in Python 3."
+   },
+    {
+        "short_title": "python_crash_course",
+        "score": 33.33333333333333,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/510-dE3N1PL._SX376_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/2VKa5G0",
+        "author": "Eric Matthes ",
+        "title": "Python Crash Course",
+        "description": "is a straightforward introduction to the core of Python programming. Author Eric Matthes dispenses with the sort of tedious, unnecessary information that can get in the way of learning how to program, choosing instead to provide a foundation in general programming concepts, Python fundamentals, and problem solving. Three real world projects in the second part of the book allow readers to apply their knowledge in useful ways.\\n Readers will learn how to create a simple video game, use data visualization techniques to make graphs and charts, and build and deploy an interactive web application. Python Crash Course, 2nd Edition teaches beginners the essentials of Python quickly so that they can build practical programs and develop powerful programming techniques."
+    },
+    {
+        "short_title": "head_first_python",
+        "score": 25.438596491228072,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/513GXqfvg-L._SX433_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/2wt9KwQ",
+        "author": "Paul Barry",
+        "title": "Head First Python: A Brain-Friendly Guide",
+        "description": "Want to learn the Python language without slogging your way through how to manuals? With Head First Python, you’ll quickly grasp Python’s fundamentals, working with the built in data structures and functions. Then you’ll move on to building your very own webapp, exploring database management, exception handling, and data wrangling. If you’re intrigued by what you can do with context managers, decorators, comprehensions, and generators, it’s all here. This second edition is a complete learning experience that will help you become a bonafide Python programmer in no time."
+    },
+    {
+        "short_title": "automate_boring_stuff_with_python",
+        "score": 23.684210526315788,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/51SYS7OOBkL._SX376_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/2Tj8WDn",
+        "author": "Al Sweigart",
+        "title": "Automate the Boring Stuff with Python",
+        "description": "If you've ever spent hours renaming files or updating hundreds of spreadsheet cells, you know how tedious tasks like these can be. But what if you could have your computer do them for you? \\n In this fully revised second edition of the best-selling classic Automate the Boring Stuff with Python, you'll learn how to use Python to write programs that do in minutes what would take you hours to do by hand--no prior programming experience required. You'll learn the basics Python and explore Python's rich library of modules for performing specific tasks, like scraping data off websites, reading PDF and Word documents, and automating clicking and typing tasks."
+    },
+    {
+        "short_title": "learn_python_hard_way",
+        "score": 21.052631578947366,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/41sXSVzqW-L._SX380_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/2x9ONY0",
+        "author": "Zed Shaw",
+        "title": "Learn Python the Hard Way",
+        "description": "Zed Shaw has perfected the world’s best system for learning Python 3. Follow it and you will succeed—just like the millions of beginners Zed has taught to date! You bring the discipline, commitment, and persistence; the author supplies everything else."
+    },
+    {
+        "short_title": "python_for_data_analysis",
+        "score": 20.175438596491226,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/51cUNf8zukL._SX379_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/2uQ5p6l",
+        "author": "Wes McKinney",
+        "title": "Python for Data Analysis",
+        "description": "This book is concerned with the nuts and bolts of manipulating, processing, cleaning, and crunching data in Python. My goal is to offer a guide to the parts of the Python programming language and its data-oriented library ecosystem and tools that will equip you to become an effective data analyst. While 'data analysis' is in the title of the book, the focus is specifically on Python programming, libraries, and tools as opposed to data analysis methodology. This is the Python programming you need for data analysis."
+    },
+    {
+        "short_title": "effective_python",
+        "score": 19.298245614035086,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/41XiNqkzNyL._SX378_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/3aiXTzQ",
+        "author": "Brett Slatkin",
+        "title": "Effective Python",
+        "description": "It’s easy to start developing programs with Python, which is why the language is so popular. However, Python’s unique strengths, charms, and expressiveness can be hard to grasp, and there are hidden pitfalls that can easily trip you up."
+    },
+    {
+        "short_title": "think_python",
+        "score": 19.298245614035086,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/51-54ZrGSZL._SX379_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/2x2gXnz",
+        "author": "Allen B. Downey ",
+        "title": "Think Python: How to Think Like a Computer Scientist",
+        "description": "If you want to learn how to program, working with Python is an excellent way to start. This hands-on guide takes you through the language a step at a time, beginning with basic programming concepts before moving on to functions, recursion, data structures, and object-oriented design. This second edition and its supporting code have been updated for Python 3. \\n Through exercises in each chapter, you’ll try out programming concepts as you learn them. Think Python is ideal for students at the high school or college level, as well as self-learners, home-schooled students, and professionals who need to learn programming basics. Beginners just getting their feet wet will learn how to start with Python in a browser."
+    },
+    {
+        "short_title": "python_tricks",
+        "score": 14.912280701754385,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/51z7XBWJb2L.jpg",
+        "url": "https://amzn.to/3crKx6j",
+        "author": "Dan Bader",
+        "title": "Python Tricks",
+        "description": "With Python Tricks: The Book you’ll discover Python’s best practices and the power of beautiful & Pythonic code with simple examples and a step-by-step narrative. \\n You'll get one step closer to mastering Python, so you can write beautiful and idiomatic code that comes to you naturally. \\n Learning the ins and outs of Python is difficult—and with this book you'll be able to focus on the practical skills that really matter. Discover the “hidden gold” in Python’s standard library and start writing clean and Pythonic code today."
+    },
+    {
+        "short_title": "python_machine_learning",
+        "score": 14.912280701754385,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/41LEirGUWAL._SX404_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/3cta5A0",
+        "author": "Sebastian Raschka & Vahid Mirjalili",
+        "title": "Python Machine Learning",
+        "description": ""
+    },
+    {
+        "short_title": "dive_into_python",
+        "score": 14.035087719298245,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/51189XuUbpL._SX376_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/38fd8Ze",
+        "author": " Mark Pilgrim",
+        "title": "Dive into Python 3",
+        "description": "There are a huge number of python developers who will need to learn to port their code to python 3, and Dive Into Python 3 is the ideal hands-on introduction to the latest version of python for them. Its unique style of giving a chunk of code first and then picking it apart is ideally suited to existing developers who want to understand the new version of the language quickly."
+    },
+    {
+        "short_title": "python_essential_reference",
+        "score": 14.035087719298245,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/41YJn6bLgbL._SX332_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/2VHnI8A",
+        "author": "Python Essential Reference",
+        "title": "David Beazley",
+        "description": "Python Essential Reference is the definitive reference guide to the Python programming language — the one authoritative handbook that reliably untangles and explains both the core Python language and the most essential parts of the Python library.\\n Designed for the professional programmer, the book is concise, to the point, and highly accessible. It also includes detailed information on the Python library and many advanced subjects that is not available in either the official Python documentation or any other single reference source.\\n Thoroughly updated to reflect the significant new programming language features and library modules that have been introduced in Python 2.6 and Python 3, the fourth edition of Python Essential Reference is the definitive guide for programmers who need to modernize existing Python code or who are planning an eventual migration to Python 3. Programmers starting a new Python project will find detailed coverage of contemporary Python programming idioms."
+    },
+    {
+        "short_title": "programming_python",
+        "score": 12.280701754385964,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/51ovFaPaLjL._SX379_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/3aiYZLY",
+        "author": "Mark Lutz",
+        "title": "Programming Python",
+        "description": "If you've mastered Python's fundamentals, you're ready to start using it to get real work done. Programming Python will show you how, with in depth tutorials on the language's primary application domains: system administration, GUIs, and the Web. You'll also explore how Python is used in databases, networking, front end scripting layers, text processing, and more. This book focuses on commonly used tools and libraries to give you a comprehensive understanding of Python’s many roles in practical, real world programming.\\n You'll learn language syntax and programming techniques in a clear and concise manner, with lots of examples that illustrate both correct usage and common idioms. Completely updated for version 3.x, Programming Python also delves into the language as a software development tool, with many code examples scaled specifically for that purpose."
+    },
+    {
+        "short_title": "introduction_to_machine_learning_with_python",
+        "score": 12.280701754385964,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/51IXBmHSe1L._SX379_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/3coXmhI",
+        "author": " Andreas C. Müller & Sarah Guido",
+        "title": "Introduction to Machine Learning with Python",
+        "description": "Machine learning has become an integral part of many commercial applications and research projects, but this field is not exclusive to large companies with extensive research teams. If you use Python, even as a beginner, this book will teach you practical ways to build your own machine learning solutions. With all the data available today, machine learning applications are limited only by your imagination. \\n You’ll learn the steps necessary to create a successful machine-learning application with Python and the scikit-learn library. Authors Andreas Müller and Sarah Guido focus on the practical aspects of using machine learning algorithms, rather than the math behind them. Familiarity with the NumPy and matplotlib libraries will help you get even more from this book."
+    },
+    {
+        "short_title": "python_in_nutshell",
+        "score": 11.403508771929824,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/41SDd%2BzqvkL._SX331_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/2IdkJgr",
+        "author": "Alex Martelli & Anna Ravenscroft & Steve Holden",
+        "title": "Python in a Nutshell",
+        "description": "Useful in many roles, from design and prototyping to testing, deployment, and maintenance, Python is consistently ranked among today’s most popular programming languages. The third edition of this practical book provides a quick reference to the language—including Python 3.5, 2.7, and highlights of 3.6—commonly used areas of its vast standard library, and some of the most useful third-party modules and packages. \\n Ideal for programmers with some Python experience, and those coming to Python from other programming languages, this book covers a wide range of application areas, including web and network programming, XML handling, database interactions, and high-speed numeric computing. Discover how Python provides a unique mix of elegance, simplicity, practicality, and sheer power."
+    },
+    {
+        "short_title": "invent_your_own_computer_games_with_python",
+        "score": 10.526315789473683,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/51mpkckeu4L._SX376_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/3ao8ucN",
+        "author": "Al Sweigart",
+        "title": "Invent Your Own Computer Games with Python",
+        "description": "Begin by building classic games like Hangman, Guess the Number, and Tic-Tac-Toe, and then work your way up to more advanced games, like a text-based treasure hunting game and an animated collision-dodging game with sound effects. Along the way, you’ll learn key programming and math concepts that will help you take your game programming to the next level."
+    },
+    {
+        "short_title": "python_pocket_reference",
+        "score": 10.526315789473683,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/51HnObzgc5L._SX304_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/2vzOIML",
+        "author": "Mark Lutz",
+        "title": "Python Pocket Reference",
+        "description": "This convenient pocket guide is the perfect on-the-job quick reference. You’ll find concise, need-to-know information on Python types and statements, special method names, built-in functions and exceptions, commonly used standard library modules, and other prominent Python tools. The handy index lets you pinpoint exactly what you need.\\n Written by Mark Lutz—widely recognized as the world’s leading Python trainer—Python Pocket Reference is an ideal companion to O’Reilly’s classic Python tutorials, Learning Python and Programming Python, also written by Mark."
+    },
+    {
+        "short_title": "hitchhikers_guide_to_python",
+        "score": 9.649122807017543,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/51oqxVFGbBL._SX377_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/3cqwH45",
+        "author": "Kenneth Reitz & Tanya Schlusser",
+        "title": "The Hitchhiker's Guide to Python",
+        "description": "The Hitchhiker's Guide to Python takes the journeyman Pythonista to true expertise. More than any other language, Python was created with the philosophy of simplicity and parsimony. Now 25 years old, Python has become the primary or secondary language (after SQL) for many business users. With popularity comes diversity—and possibly dilution.\\n This guide, collaboratively written by over a hundred members of the Python community, describes best practices currently used by package and application developers. Unlike other books for this audience, The Hitchhiker’s Guide is light on reusable code and heavier on design philosophy, directing the reader to excellent sources that already exist."
+    },
+    {
+        "short_title": "natural_language_processing_with_python",
+        "score": 9.649122807017543,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/51id5aD92ML._SX379_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/2vzPcCz",
+        "author": "Steven Bird & Ewan Klein & Edward Loper",
+        "title": "Natural Language Processing with Python",
+        "description": "This book offers a highly accessible introduction to natural language processing, the field that supports a variety of language technologies, from predictive text and email filtering to automatic summarization and translation. With it, you'll learn how to write Python programs that work with large collections of unstructured text. You'll access richly annotated datasets using a comprehensive range of linguistic data structures, and you'll understand the main algorithms for analyzing the content and structure of written communication. Packed with examples and exercises, Natural Language Processing with Python will help you: Extract information from unstructured text, either to guess the topic or identify 'named entities' Analyze linguistic structure in text, including parsing and semantic analysis Access popular linguistic databases, including WordNet and treebanks Integrate techniques drawn from fields as diverse as linguistics and artificial intelligence This book will help you gain practical skills in natural language processing using the Python programming language and the Natural Language Toolkit (Nltk) open source library. If you're interested in developing web applications, analyzing multilingual news sources, or documenting endangered languages - or if you're simply curious to have a programmer's perspective on how human language works - you'll find Natural Language Processing with Python both fascinating and immensely useful."
+    },
+    {
+        "short_title": "violent_python",
+        "score": 8.771929824561402,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/31JMJYnUHCL._SX403_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/32K1aFW",
+        "author": "TJ O'Connor",
+        "title": "Violent Python",
+        "description": "Violent Python shows you how to move from a theoretical understanding of offensive computing concepts to a practical implementation. Instead of relying on another attacker’s tools, this book will teach you to forge your own weapons using the Python programming language. This book demonstrates how to write Python scripts to automate large-scale network attacks, extract metadata, and investigate forensic artifacts. It also shows how to write code to intercept and analyze network traffic using Python, craft and spoof wireless frames to attack wireless and Bluetooth devices, and how to data-mine popular social media websites and evade modern anti-virus."
+     },
+    {
+        "short_title": "python_data_science_handbook",
+        "score": 7.894736842105263,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/51wwKopZaDL._SX379_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/38gvLw1",
+        "author": "Jake VanderPlas",
+        "title": "Python Data Science Handbook",
+        "description": "For many researchers, Python is a first-class tool mainly because of its libraries for storing, manipulating, and gaining insight from data. Several resources exist for individual pieces of this data science stack, but only with the Python Data Science Handbook do you get them all—IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and other related tools.\\n Working scientists and data crunchers familiar with reading and writing Python code will find this comprehensive desk reference ideal for tackling day-to-day issues: manipulating, transforming, and cleaning data; visualizing different types of data; and using data to build statistical or machine learning models. Quite simply, this is the must-have reference for scientific computing in Python."
+    },
+    {
+        "short_title": "deep_learning_with_python",
+        "score": 7.894736842105263,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/41kxrQD7R%2BL._SX398_BO1,204,203,200_.jpg",
+        "url": "https://amzn.to/38jS9V5",
+        "author": "François Chollet",
+        "title": "Deep Learning with Python",
+        "description": "This book was written for anyone who wishes to explore deep learning from scratch or broaden their understanding of deep learning. Whether you’re a practicing machine-learning engineer, a software developer, or a college student, you’ll find value in these pages. This book offers a practical, hands-on exploration of deep learning. It avoids mathematical notation, preferring instead to explain quantitative concepts via code snippets and to build practical intuition about the core ideas of machine learning and deep learning. You’ll learn from more than 30 code examples that include detailed commentary, practical recommendations, and simple high-level explanations of everything you need to know to start using deep learning to solve concrete problems. The code examples use the Python deep-learning framework Keras, with Tensor- Flow as a back-end engine. Keras, one of the most popular and fastest-growing deeplearning frameworks, is widely recommended as the best tool to get started with deep learning."
+    },
+    {
+        "short_title": "learn_python_in_one_day_and_learn_it_well",
+        "score": 7.894736842105263,
+        "picture_url": "https://images-na.ssl-images-amazon.com/images/I/51Rb35UTXZL.jpg",
+        "url": "https://amzn.to/2VFKJcf",
+        "author": "Jamie Chan",
+        "title": "Python: Learn Python in One Day and Learn It Well",
+        "description": "Have you always wanted to learn computer programming but are afraid it'll be too difficult for you? Or perhaps you know other programming languages but are interested in learning the Python language fast?\\n This book is for you. You no longer have to waste your time and money learning Python from lengthy books, expensive online courses or complicated Python tutorials."
+    }
+]
